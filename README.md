@@ -4,7 +4,8 @@ Welcome to NewsAI! This is a web application that fetches the latest news articl
 
 ## Web UI
 
-![Web UI](images/Screenshot%202024-11-11%20154142.png)
+![Web UI](assets/images/Screenshot%202024-11-12%20142759.png)
+![Web UI](assets/images/Screenshot%202024-11-12%20142840.png)
 
 ## Features
 
