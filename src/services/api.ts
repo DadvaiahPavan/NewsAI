@@ -1,8 +1,8 @@
 import axios, { AxiosError } from 'axios';
 import { Article, NewsApiResponse, SummaryApiResponse } from '../types';
 
-const NEWS_API_KEY = 'pub_58852b7a613428073ca5ea468351f2caed1ba';
-const SUMMARY_API_KEY = '43862583e4msh651bedc74e302c7p1c33abjsnf15e5c0f62e9';
+const NEWS_API_KEY = 'Your NewsData.io API key';
+const SUMMARY_API_KEY = 'Your Rapid API key';
 
 const newsApi = axios.create({
   baseURL: 'https://newsdata.io/api/1',
