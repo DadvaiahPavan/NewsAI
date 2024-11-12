@@ -8,17 +8,17 @@ Welcome to NewsAI! This is a web application that fetches the latest news articl
 
 ## Features
 
-Fetches news articles from various categories.
-Summarizes articles using an AI summarization API.
-Displays articles in a responsive, easy-to-navigate interface.
+- Fetches news articles from various categories.
+- Summarizes articles using an AI summarization API.
+- Displays articles in a responsive, easy-to-navigate interface.
 
 ## Technologies Used
 
--React: Used for building the user interface.
--Axios: For making API requests.
--TailwindCSS: For styling the application.
--NewsData.io API: For fetching the latest news articles.
--Article Extractor & Summarizer API (via RapidAPI): For summarizing articles.
+- React: Used for building the user interface.
+- Axios: For making API requests.
+- TailwindCSS: For styling the application.
+- NewsData.io API: For fetching the latest news articles.
+- Article Extractor & Summarizer API (via RapidAPI): For summarizing articles.
 
 ## Installation
 
@@ -43,17 +43,17 @@ REACT_APP_SUMMARY_API_KEY=your_summary_api_key_here
 
 4.To get the News API Key:
 
--Go to NewsData.io.
--Sign up or log in.
--Navigate to the API Key page and generate your API key.
--Copy and paste the key into your .env file under REACT_APP_NEWS_API_KEY.
+- Go to NewsData.io.
+- Sign up or log in.
+- Navigate to the API Key page and generate your API key.
+- Copy and paste the key into your .env file under REACT_APP_NEWS_API_KEY.
 
 5.To get the RapidAPI Key (Article Extractor & Summarizer):
 
--Go to RapidAPI Article Extractor & Summarizer.
--Sign up or log in.
--Subscribe to the API and get your API key.
--Copy and paste the key into your .env file under REACT_APP_SUMMARY_API_KEY.
+- Go to RapidAPI Article Extractor & Summarizer.
+- Sign up or log in.
+- Subscribe to the API and get your API key.
+- Copy and paste the key into your .env file under REACT_APP_SUMMARY_API_KEY.
 
 
 6. Start the application:
