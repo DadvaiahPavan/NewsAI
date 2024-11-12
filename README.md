@@ -8,9 +8,9 @@ Welcome to NewsAI! This is a web application that fetches the latest news articl
 
 ## Features
 
--Fetches news articles from various categories.
--Summarizes articles using an AI summarization API.
--Displays articles in a responsive, easy-to-navigate interface.
+Fetches news articles from various categories.
+Summarizes articles using an AI summarization API.
+Displays articles in a responsive, easy-to-navigate interface.
 
 ## Technologies Used
 
