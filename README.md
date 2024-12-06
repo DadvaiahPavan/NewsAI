@@ -2,8 +2,9 @@
 
 NewsAI is a modern, responsive news aggregation platform built with React, TypeScript, and Tailwind CSS. It provides users with a seamless experience to browse, search, and summarize news articles from various categories and sources worldwide.
 
-![Web UI](https://i.ibb.co/XLNfDST/Screenshot-2024-11-12-142840.png)
 ![Web UI](https://i.ibb.co/KKMBZnY/Screenshot-2024-11-12-142759.png)
+![Web UI](https://i.ibb.co/XLNfDST/Screenshot-2024-11-12-142840.png)
+
 
 
 ## 🌟 Features
